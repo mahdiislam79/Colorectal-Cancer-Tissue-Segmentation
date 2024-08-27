@@ -12,3 +12,5 @@ Implementation Details:
 - PyTorch Framework: The project is implemented using PyTorch and Weights & Biases.
 - Dynamic Training Configuration: Training parameters such as batch size, learning rate, and number of epochs are configurable.
 - Resource Management: Code includes commands for GPU memory management to ensure efficient resource use during training.
+
+Dataset can be found [here](https://www.kaggle.com/datasets/mahdiislam/colorectal-cancer-wsi)
